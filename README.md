@@ -1,3 +1,5 @@
+By Nikita Bisht - 20191CSE0783
+
 A Machine Learning Model to Predict Weights From A Given Set of Heights.
 
 Conclusion:
